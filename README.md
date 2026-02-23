@@ -3,10 +3,15 @@ Brain Tumor Image Segmentation using FPN and 3D U-Net
 This project focuses on automatic brain tumor segmentation from MRI scans using deep learning models — Feature Pyramid Network (FPN) and 3D U-Net.
 It leverages the BRaTS 2020 dataset, enabling accurate detection and segmentation of tumor regions including whole tumor (WT), tumor core (TC), and enhancing tumor (ET).
 
+<img width="753" height="477" alt="image" src="https://github.com/user-attachments/assets/a54a6dcd-e6c9-49ff-9c24-5d59b49202df" />
+
+
 🚀 Overview
 
 Accurate brain tumor segmentation is crucial for diagnosis, treatment planning, and monitoring.
 This project uses encoder–decoder architectures that effectively capture both global context and fine spatial details in 3D medical images.
+
+
 
 We train and compare FPN and 3D U-Net architectures on multi-modal MRI data to achieve high segmentation accuracy across different tumor regions.
 
