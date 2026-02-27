@@ -41,6 +41,8 @@ Skip connections for spatial detail preservation
 Handles 3D MRI scans directly using 3×3×3 convolutions
 
 🧩 Feature Pyramid Network (FPN)
+<img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/b5bf99a2-31bc-4e85-9476-619902e28a59" />
+
 
 Built on a 2D/3D CNN backbone
 
